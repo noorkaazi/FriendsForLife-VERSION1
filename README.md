@@ -40,14 +40,6 @@ FFL.V1
 
 ├── priv.html
 
-├── slide1.webp
-
-├── slide2.webp
-
-├── slide3.webp
-
-├── slide4.webp
-
 ├── sucess1.jpg
 
 ├── sucess2.webp
